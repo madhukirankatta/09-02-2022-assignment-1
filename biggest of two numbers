@@ -1,0 +1,13 @@
+# 09-02-2022-assignment-1
+#find the biggest of two numbers
+A=int(input('enter A value :'))
+B=int(input('enter B value :'))
+if A>B:
+    print('A is bigger =',A)
+else:
+    print('B is bigger =',B)
+
+output:
+enter A value :78
+enter B value :98
+B is bigger = 98
